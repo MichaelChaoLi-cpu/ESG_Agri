@@ -42,10 +42,11 @@ iframe_xpath = '/html/body/ui-view/div/ui-view/div/div[2]/iframe'
 iframe_element = driver.find_element(By.XPATH, iframe_xpath)
 driver.switch_to.frame(iframe_element)
 
+
 data_info = []
 fail_array = []
 
-for page in list(range(13)):
+for page in list(range(4)):
     for batch in list(range(10)):
         for row_number in list(range(1,21)):
             try:
@@ -53,7 +54,7 @@ for page in list(range(13)):
                 shadow_root = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, shadow_host_xpath))).shadow_root
                 element_within_shadow_xpath = f'#section0 > div.tr-lg > div.grid-pane.columns > div > div:nth-child(4) > div:nth-child({row_number}) > button > div > app-icon:nth-child(2) > coral-icon'
                 WebDriverWait(shadow_root, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, element_within_shadow_xpath))).click()
-                time.sleep(80)
+                time.sleep(180)
                 
                 shadow_host_xpath = "/html/body/app-root/app-industry-view/carbon-sidebar-layout/div/carbon-sidebar-layout/div[1]/app-main-grid/coral-panel/app-emerald-grid/emerald-grid"
                 shadow_root = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, shadow_host_xpath))).shadow_root
@@ -89,12 +90,12 @@ for page in list(range(13)):
                 print(info)
                 
                 df = pd.DataFrame(data_info)
-                df.to_csv("Data/DownloadedReport.csv")
+                df.to_csv("Data/Agri_DownloadedReport.csv")
             except:
                 print(page, batch, row_number)
                 fail_array.append([page, batch, row_number])
                 fail_df = pd.DataFrame(fail_array)
-                fail_df.to_csv("Data/FailToDownload.csv")
+                fail_df.to_csv("Data/Agri_FailToDownload.csv")
         
         shadow_host_xpath = "/html/body/app-root/app-industry-view/carbon-sidebar-layout/div/carbon-sidebar-layout/div[1]/app-main-grid/coral-panel/app-emerald-grid/emerald-grid"
         shadow_host = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, shadow_host_xpath)))
@@ -109,6 +110,11 @@ for page in list(range(13)):
     WebDriverWait(shadow_root_download, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, element_within_shadow_xpath_download))).click()
     
     print(f"****{page+1}****")
+
+
+
+
+
 
 
 
