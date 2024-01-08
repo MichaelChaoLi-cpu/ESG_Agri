@@ -45,7 +45,7 @@ driver.switch_to.frame(iframe_element)
 data_info = []
 
 for page in list(range(4)):
-    for batch in list(range(10)):
+    for batch in list(range(14)):
         for row_number in list(range(1,21)):
             try:
                 shadow_host_xpath = "/html/body/app-root/app-industry-view/carbon-sidebar-layout/div/carbon-sidebar-layout/div[1]/app-main-grid/coral-panel/app-emerald-grid/emerald-grid"
