@@ -1,0 +1,690 @@
+,0,1,2,3,4
+0,—,31-Mar-2022,US,Grain (Crop) Production,24575718
+1,VWE.OQ,30-Jun-2023,US,Wineries,231325642
+2,NGTF.PK,30-Jun-2023,US,Frozen Food Manufacturing,231325189
+3,SANW.OQ,30-Jun-2023,US,Grain (Crop) Production,231284869
+4,NAPA.N,31-Jul-2023,US,Wineries,231284850
+5,CSGN.PK^H09,30-Jun-2023,US,Food Processing (NEC),231279600
+6,CPB.N,30-Jul-2023,US,Food Processing (NEC),231267736
+7,ISPR.OQ,30-Jun-2023,US,Tobacco (NEC),231262452
+8,MMNT.PK,31-May-2023,US,Distilleries,231256698
+9,FARM.OQ,30-Jun-2023,US,Coffee & Tea,231250895
+10,HAIN.OQ,30-Jun-2023,US,Food Ingredients,231202214
+11,JBSS.OQ,29-Jun-2023,US,Chocolate & Confectionery,231198118
+12,LANC.OQ,30-Jun-2023,US,Food Ingredients,231195170
+13,WTER.OQ,31-Mar-2023,US,Bottled Water & Ice,231179527
+14,DRFS.PK,31-Mar-2023,US,Food Processing (NEC),231177865
+15,CALM.OQ,03-Jun-2023,US,Poultry Farming,231108708
+16,LW.N,28-May-2023,US,Food Processing (NEC),231108021
+17,ACBM.PK,31-Dec-2022,US,Special Foods & Wellbeing Products,231101940
+18,ASII.PK,31-Dec-2022,US,Non-Alcoholic Beverages (NEC),231092891
+19,CAG.N,28-May-2023,US,Food Processing (NEC),231087084
+20,GIS.N,28-May-2023,US,Food Processing (NEC),231052182
+21,SHMY.PK,31-Mar-2023,US,Food Ingredients,231049803
+22,SHMP.PK,31-Mar-2023,US,Aquaculture,231043575
+23,SJM.N,30-Apr-2023,US,Food Processing (NEC),231023553
+24,BFb.N,30-Apr-2023,US,Distillers & Wineries (NEC),231020897
+25,SENEA.OQ,31-Mar-2023,US,Frozen Food Manufacturing,231011361
+26,PYYX.PK,31-Mar-2023,US,Tobacco (NEC),23994855
+27,PACV.PK,31-Dec-2022,US,Food Processing (NEC),23985617
+28,RMCF.OQ,28-Feb-2023,US,Chocolate & Confectionery,23976406
+29,UVV.N,31-Mar-2023,US,Tobacco (NEC),23959885
+30,REED.PK,31-Dec-2022,US,Carbonated Soft Drinks,23924589
+31,TTCFQ.PK,31-Dec-2022,US,Vegan & Vegetarian Food Manufacturing,23924280
+32,HPCO.OQ,31-Dec-2022,US,Cigars & Cigarette Manufacturing,23917764
+33,MJNE.PK,31-Dec-2022,US,Agriculture Support Services,23893126
+34,PNPL.PK,31-Dec-2022,US,Special Foods & Wellbeing Products,23892273
+35,BRBL.PK,31-Dec-2022,US,Brewers (NEC),23878442
+36,AIXN.PK,31-Dec-2022,US,Special Foods & Wellbeing Products,23869124
+37,RLBD.PK,31-Dec-2022,US,Food Processing (NEC),23868240
+38,MAMA.OQ,31-Jan-2023,US,Meat Processing,23849938
+39,AQPW.PK,31-Dec-2022,US,Bottled Water & Ice,23825417
+40,LOCL.N,31-Dec-2022,US,Organic Farming,23789142
+41,ICNB.PK,31-Dec-2022,US,Distillers & Wineries (NEC),23787645
+42,APRN.OQ^K23,31-Dec-2022,US,Food Processing (NEC),23737201
+43,TPB.N,31-Dec-2022,US,Tobacco (NEC),23736107
+44,BRCC.N,31-Dec-2022,US,Coffee & Tea,23735329
+45,COCO.OQ,31-Dec-2022,US,Non-Alcoholic Beverages (NEC),23731736
+46,ZIVO.PK,31-Dec-2022,US,Special Foods & Wellbeing Products,23730862
+47,CWGL.PK,31-Dec-2022,US,Wineries,23728016
+48,FREE.OQ,31-Dec-2022,US,Food Processing (NEC),23725748
+49,COKE.OQ,31-Dec-2022,US,Non-Alcoholic Beverages (NEC),23653379
+50,INGR.N,31-Dec-2022,US,Food Processing (NEC),23647942
+51,ADM.N,31-Dec-2022,US,Food Processing (NEC),23629189
+52,PRPH.OQ,31-Dec-2020,US,Special Foods & Wellbeing Products,21794757
+53,DFODQ.PK^F21,31-Dec-2019,US,Food Processing (NEC),20731078
+54,REED.OQ,31-Dec-2019,US,Carbonated Soft Drinks,20723994
+55,—,28-Dec-2019,CA,Bottled Water & Ice,20656917
+56,ADM.N,31-Dec-2019,US,Food Processing (NEC),20625226
+57,PM.N,31-Dec-2019,US,Tobacco (NEC),20584499
+58,ALCO.OQ,30-Sep-2019,US,"Vegetable, Fruit & Nut Farming",191270828
+59,CENT.OQ,28-Sep-2019,US,Pet Food Manufacturing,191252671
+60,POST.N,30-Sep-2019,US,Breakfast Cereal Manufacturing,191239609
+61,STZ.N,28-Feb-2019,US,Brewers (NEC),19761437
+62,CHSCP.OQ,31-Aug-2018,US,Fishing & Farming (NEC),181212735
+63,TSN.N,30-Sep-2017,US,Meat Processing,171193140
+64,CHSCP.OQ,31-Aug-2017,US,Fishing & Farming (NEC),171191880
+65,SMPL.OQ,26-Aug-2017,US,Special Foods & Wellbeing Products,171189904
+66,PLAG.A,31-Dec-2016,US,Food Processing (NEC),171164633
+67,AAGH.PK,30-Jun-2017,US,Special Foods & Wellbeing Products,171137236
+68,CAG.N,28-May-2017,US,Food Processing (NEC),17976021
+69,—,31-Dec-2016,US,Bottled Water & Ice,17966372
+70,WTER.OQ,31-Mar-2017,US,Bottled Water & Ice,17965601
+71,FIZZ.OQ,29-Apr-2017,US,Non-Alcoholic Beverages (NEC),17962933
+72,SHMP.PK,31-Mar-2017,US,Aquaculture,17938616
+73,GIS.N,28-May-2017,US,Food Processing (NEC),17936753
+74,HAIN.OQ,30-Jun-2016,US,Food Ingredients,17924035
+75,SJM.N,30-Apr-2017,US,Food Processing (NEC),17918619
+76,BOBE.OQ^A18,28-Apr-2017,US,Food Processing (NEC),17912993
+77,BFb.N,30-Apr-2017,US,Distillers & Wineries (NEC),17911996
+78,ROX.A^J19,31-Mar-2017,US,Distillers & Wineries (NEC),17911578
+79,PYYX.PK,31-Mar-2017,US,Tobacco (NEC),17911240
+80,UVV.N,31-Mar-2017,US,Tobacco (NEC),17872519
+81,SENEA.OQ,31-Mar-2017,US,Frozen Food Manufacturing,17870316
+82,RMCF.OQ,28-Feb-2017,US,Chocolate & Confectionery,17864400
+83,FBEC.PK,31-Dec-2016,US,Energy Drinks,17861488
+84,EWLU.PK,31-Dec-2016,US,Special Foods & Wellbeing Products,17798249
+85,CATN.PK,31-Dec-2016,US,Fishing & Farming (NEC),17797230
+86,STZ.N,28-Feb-2017,US,Brewers (NEC),17786897
+87,REED.OQ,31-Dec-2016,US,Carbonated Soft Drinks,17777781
+88,VDKB.PK,31-Dec-2016,US,Distilleries,17767370
+89,VPRB.PK,31-Dec-2016,US,Tobacco (NEC),17765424
+90,FTLF.PK,31-Dec-2016,US,Special Foods & Wellbeing Products,17764968
+91,MJTK.PK^D21,31-Dec-2016,US,Business Support Services (NEC),17764881
+92,PLSB.PK^E21,31-Dec-2016,US,Non-Alcoholic Beverages (NEC),17764826
+93,FVRG.PK^G21,31-Dec-2016,US,Food Processing (NEC),17761049
+94,KRED.PK,31-Dec-2016,US,Non-Alcoholic Beverages (NEC),17760127
+95,PACV.PK,31-Dec-2016,US,Food Processing (NEC),17757450
+96,—,31-Dec-2016,US,Brewers (NEC),17755703
+97,LWAY.OQ,31-Dec-2016,US,Dairy Products,17751427
+98,SOWG.PK,31-Dec-2016,US,Food Processing (NEC),17746436
+99,JCTG.PK^I22,31-Dec-2016,US,Distillers & Wineries (NEC),17744537
+100,GLLA.PK^F21,31-Dec-2016,US,Cigars & Cigarette Manufacturing,17731508
+101,TLCC.PK,31-Dec-2016,US,Special Foods & Wellbeing Products,17731025
+102,TOFB.PK,31-Dec-2016,US,Frozen Food Manufacturing,17730967
+103,CHUC.PK,31-Dec-2016,US,Tobacco (NEC),17730814
+104,NBEVQ.PK,31-Dec-2016,US,Non-Alcoholic Beverages (NEC),17730689
+105,EAST.OQ,31-Dec-2016,US,Distilleries,17730385
+106,SNAK.OQ^L17,31-Dec-2016,US,Food Processing (NEC),17729778
+107,ZIVO.OQ,31-Dec-2016,US,Special Foods & Wellbeing Products,17729296
+108,KANP.PK,31-Dec-2016,US,Land Division & Subdivision,17728472
+109,OPCO.PK^C19,31-Dec-2016,US,Pet Food Manufacturing,17727945
+110,PARF.PK^L21,31-Dec-2016,US,Snack Food & Non-Chocolate Confectionary,17727946
+111,AIFM.PK,31-Dec-2016,US,Agriculture Support Services,17727852
+112,LBCC.PK^B21,31-Dec-2016,US,Non-Alcoholic Beverages (NEC),17727792
+113,BRFH.OQ,31-Dec-2016,US,Non-Alcoholic Beverages (NEC),17725730
+114,IVFH.PK,31-Dec-2016,US,Food Processing (NEC),17725646
+115,CELH.OQ,31-Dec-2016,US,Non-Alcoholic Beverages (NEC),17725637
+116,MJNE.PK,31-Dec-2016,US,Agriculture Support Services,17724315
+117,—,31-Dec-2016,US,Food Processing (NEC),17721806
+118,GLUC.PK,31-Dec-2016,US,Special Foods & Wellbeing Products,17720063
+119,SBEV.A,31-Dec-2016,US,Distillers & Wineries (NEC),17719133
+120,RELV.PK,31-Dec-2016,US,Special Foods & Wellbeing Products,17717869
+121,FIFG.PK,31-Dec-2016,US,Chocolate & Confectionery,17716194
+122,SNYR.PK,31-Dec-2016,US,Special Foods & Wellbeing Products,17713383
+123,NTRU.PK,31-Dec-2016,US,Food Processing (NEC),17712822
+124,MOJO.PK,31-Dec-2016,US,Non-Alcoholic Beverages (NEC),17711576
+125,RIBT.OQ,31-Dec-2016,US,Food Processing (NEC),17710533
+126,PME.OQ,31-Dec-2016,KY,Commercial Fishing,17709859
+127,WVVI.OQ,31-Dec-2016,US,Wineries,17709789
+128,JSDA.PK,31-Dec-2016,US,Non-Alcoholic Beverages (NEC),17709577
+129,SDSYA.PK,31-Dec-2016,US,Food Processing (NEC),17705693
+130,SDI.A^G20,31-Dec-2016,US,Cigars & Cigarette Manufacturing,17705627
+131,SIAF.PK,31-Dec-2016,US,Fishing & Farming (NEC),17695558
+132,BETR.N^A18,31-Dec-2016,US,Snack Food & Non-Chocolate Confectionary,17695392
+133,MED.N,31-Dec-2016,US,Special Foods & Wellbeing Products,17695399
+134,BREW.OQ^J20,31-Dec-2016,US,Craft & Micro Brewers,17695257
+135,TVIAQ.PK^A18,31-Dec-2016,US,Food Processing (NEC),17694603
+136,CWGL.PK,31-Dec-2016,US,Wineries,17691103
+137,NNUTU.PK,31-Dec-2016,US,"Vegetable, Fruit & Nut Farming",17690926
+138,COKE.OQ,01-Jan-2017,US,Non-Alcoholic Beverages (NEC),17688959
+139,BIQIF.PK,31-Dec-2016,VG,Hog & Pig Farming,17688484
+140,TWNK.OQ,31-Dec-2016,US,Bread & Bakery Product Manufacturing,17688445
+141,FRPT.OQ,31-Dec-2016,US,Pet Food Manufacturing,17688129
+142,NATR.OQ,31-Dec-2016,US,Special Foods & Wellbeing Products,17686819
+143,MTEX.OQ,31-Dec-2016,US,Special Foods & Wellbeing Products,17686744
+144,TPB.N,31-Dec-2016,US,Tobacco (NEC),17685547
+145,USBFU.PK,31-Dec-2016,US,Meat Processing,17677564
+146,XXII.OQ,31-Dec-2016,US,Tobacco (NEC),17675225
+147,MGPI.OQ,31-Dec-2016,US,Distillers & Wineries (NEC),17673903
+148,GGROU.PK,31-Dec-2016,US,Food Processing (NEC),17672035
+149,SOY.TO,31-Dec-2016,CA,Vegan & Vegetarian Food Manufacturing,17658406
+150,BGS.N,31-Dec-2016,US,Food Processing (NEC),17655757
+151,USNA.N,31-Dec-2016,US,Special Foods & Wellbeing Products,17655438
+152,—,31-Dec-2016,CA,Bottled Water & Ice,17655038
+153,VGR.N,31-Dec-2016,US,Tobacco (NEC),17654495
+154,MNST.OQ,31-Dec-2016,US,Energy Drinks,17654396
+155,OME.N^L17,31-Dec-2016,US,Commercial Fishing,17654010
+156,BUFF.OQ^D18,31-Dec-2016,US,Pet Food Manufacturing,17653984
+157,ANDE.OQ,31-Dec-2016,US,Fishing & Farming Wholesale,17651626
+158,BG.N,31-Dec-2016,BM,Food Processing (NEC),17647920
+159,LNCE.OQ^C18,31-Dec-2016,US,"Cookie, Cracker & Pasta Manufacturing",17648014
+160,IPHS.OQ^B20,31-Dec-2016,US,Food Ingredients,17649060
+161,TR.N,31-Dec-2016,US,Chocolate & Confectionery,17640159
+162,WWAV.K^D17,31-Dec-2016,US,Food Processing (NEC),17637692
+163,—,31-Dec-2016,US,Special Foods & Wellbeing Products,17637182
+164,MDLZ.OQ,31-Dec-2016,US,Food Processing (NEC),17635982
+165,KO.N,31-Dec-2016,US,Non-Alcoholic Beverages (NEC),17635588
+166,HLF.N,31-Dec-2016,KY,Special Foods & Wellbeing Products,17633066
+167,MDLZ.OQ,31-Dec-2015,US,Food Processing (NEC),161440870
+168,MJN^F17,31-Dec-2015,US,Baby Food,161432229
+169,TAP.N,31-Dec-2015,US,Brewers (NEC),161411627
+170,ALCO.OQ,30-Sep-2015,US,"Vegetable, Fruit & Nut Farming",151281614
+171,CHSCP.OQ,31-Aug-2015,US,Fishing & Farming (NEC),151249006
+172,K.N,03-Jan-2015,US,Food Processing (NEC),15649035
+173,KO.N,31-Dec-2014,US,Non-Alcoholic Beverages (NEC),15647335
+174,KDP.OQ,31-Dec-2014,US,Non-Alcoholic Beverages (NEC),15631504
+175,GMCR.OQ^C16,27-Sep-2014,US,Coffee & Tea,141235482
+176,TSN.N,27-Sep-2014,US,Meat Processing,141226390
+177,—,31-Aug-2013,US,Special Foods & Wellbeing Products,131242637
+178,CHSCP.OQ,31-Aug-2013,US,Fishing & Farming (NEC),131201810
+179,HSH.N^H14,29-Jun-2013,US,Food Processing (NEC),131056236
+180,SFD.N^I13,28-Apr-2013,US,Meat Processing,13919831
+181,KDP.OQ,31-Dec-2012,US,Non-Alcoholic Beverages (NEC),13628283
+182,VPRB.PK,31-Dec-2011,US,Tobacco (NEC),12720624
+183,NUIN.PK^K18,31-Dec-2011,US,Fishing & Farming (NEC),12720254
+184,NNUTU.PK^I22,31-Dec-2011,US,"Vegetable, Fruit & Nut Farming",12719850
+185,CMFO.PK,31-Dec-2011,US,Seafood Product Preparation & Packaging,12718087
+186,GHMP.PK,31-Dec-2011,US,Non-Alcoholic Beverages (NEC),12717583
+187,WVVI.OQ,31-Dec-2011,US,Wineries,12717142
+188,SNAK.OQ^L17,31-Dec-2011,US,Food Processing (NEC),12716883
+189,MJTK.PK^D21,31-Dec-2011,US,Business Support Services (NEC),12714386
+190,PARF.PK^L21,31-Dec-2011,US,Snack Food & Non-Chocolate Confectionary,12713749
+191,REED.OQ,31-Dec-2011,US,Carbonated Soft Drinks,12713386
+192,RELV.PK,31-Dec-2011,US,Special Foods & Wellbeing Products,12710804
+193,PLSB.PK^E21,31-Dec-2011,US,Non-Alcoholic Beverages (NEC),12697817
+194,COKE.OQ,01-Jan-2012,US,Non-Alcoholic Beverages (NEC),12697290
+195,TVIAQ.PK^A18,31-Dec-2011,US,Food Processing (NEC),12694621
+196,MED.N,31-Dec-2011,US,Special Foods & Wellbeing Products,12694450
+197,DOLE.N^K13,31-Dec-2011,US,Fishing & Farming (NEC),12694247
+198,BEAM.N^E14,31-Dec-2011,US,Distilleries,12649633
+199,K.N,31-Dec-2011,US,Food Processing (NEC),12649228
+200,BGS.N,31-Dec-2011,US,Food Processing (NEC),12648024
+201,FDP.N,30-Dec-2011,KY,Fishing & Farming (NEC),12647590
+202,SEB.A,31-Dec-2011,US,Food Processing (NEC),12647394
+203,IFF.N,31-Dec-2011,US,Food Ingredients,12646527
+204,DFODQ.PK^F21,31-Dec-2011,US,Food Processing (NEC),12643492
+205,ANDE.OQ,31-Dec-2011,US,Fishing & Farming Wholesale,12643283
+206,BG.N,31-Dec-2011,BM,Food Processing (NEC),12643031
+207,PEP.OQ,31-Dec-2011,US,Carbonated Soft Drinks,12642643
+208,CQB.N^A15,31-Dec-2011,US,Fishing & Farming (NEC),12641690
+209,INGR.N,31-Dec-2011,US,Food Processing (NEC),12641529
+210,MDLZ.OQ,31-Dec-2011,US,Food Processing (NEC),12640541
+211,LNCE.OQ^C18,31-Dec-2011,US,"Cookie, Cracker & Pasta Manufacturing",12640146
+212,VGR.N,31-Dec-2011,US,Tobacco (NEC),12639368
+213,DNAX.PK,31-Dec-2010,US,Investment Management & Fund Operators (NEC),11727564
+214,—,31-Dec-2010,KY,Food Processing (NEC),11726602
+215,RAI.N^G17,31-Dec-2009,US,Tobacco (NEC),10618554
+216,THS.N,31-Dec-2009,US,Food Processing (NEC),10602109
+217,—,31-Dec-2009,US,Non-Alcoholic Beverages (NEC),10597659
+218,—,31-Aug-2009,US,Fishing & Farming (NEC),091205211
+219,TSN.N,27-Sep-2008,US,Meat Processing,081202613
+220,SENEA.OQ,31-Mar-2008,US,Frozen Food Manufacturing,08900982
+221,BOBE.OQ^A18,28-Apr-2006,US,Food Processing (NEC),06958711
+222,DLM.N^C11,30-Apr-2006,US,Pet Food Manufacturing,06955002
+223,TULY.OQ^I07,02-Apr-2006,US,Coffee & Tea,06940779
+224,SFD.N^I13,30-Apr-2006,US,Meat Processing,06938744
+225,SJM.N,30-Apr-2006,US,Food Processing (NEC),06936931
+226,—,31-Mar-2006,US,Wineries,06935043
+227,BFb.N,30-Apr-2006,US,Distillers & Wineries (NEC),06933486
+228,—,31-Mar-2006,US,Distillers & Wineries (NEC),06924109
+229,PYYX.PK,31-Mar-2006,US,Tobacco (NEC),06922621
+230,HNZ.N^F13,03-May-2006,US,Food Processing (NEC),06915423
+231,CAGAQ.PK^K12,01-Apr-2006,US,Meat Processing,06907100
+232,UVV.N,31-Mar-2006,US,Tobacco (NEC),06904097
+233,SENEA.OQ,31-Mar-2006,US,Frozen Food Manufacturing,06903237
+234,—,04-Mar-2006,US,Ready-Made Meals,06882836
+235,PORK.OQ^E07,25-Mar-2006,US,Meat Processing,06875642
+236,UAPH.OQ^E08,26-Feb-2006,US,Agriculture Support Services,06832052
+237,—,28-Feb-2006,US,Chocolate & Confectionery,06813219
+238,STZ.N,28-Feb-2006,US,Brewers (NEC),06796763
+239,RSAU.PK,31-Dec-2005,US,Distillers & Wineries (NEC),06763303
+240,RLBD.PK,31-Dec-2005,US,Food Processing (NEC),06762606
+241,DOLE.N^K13,31-Dec-2005,US,Fishing & Farming (NEC),06761791
+242,—,31-Dec-2005,US,Commercial Fishing,06754279
+243,—,31-Dec-2005,US,Commercial Fishing,06754261
+244,TPB.N,31-Dec-2005,US,Tobacco (NEC),06731138
+245,NATLP.PK^H04,31-Dec-2005,US,Tobacco (NEC),06730382
+246,SDSYA.PK,31-Dec-2005,US,Food Processing (NEC),06729509
+247,HOGS.OQ^F13,31-Dec-2005,US,Meat Processing,06729488
+248,BREW.OQ^J20,31-Dec-2005,US,Craft & Micro Brewers,06729306
+249,SDI.A^G20,31-Dec-2005,US,Cigars & Cigarette Manufacturing,06729061
+250,PZA.A^L06,31-Dec-2005,US,Food Processing (NEC),06728306
+251,ADY.N^F13,31-Dec-2005,US,Dairy Products,06728171
+252,TBV.BE^H11,31-Dec-2005,US,Special Foods & Wellbeing Products,06727773
+253,PMID.PK^D09,31-Dec-2005,US,Brewers (NEC),06727578
+254,—,31-Dec-2005,US,Sugar & Artificial Sweeteners,06725013
+255,—,31-Dec-2005,US,Sugar & Artificial Sweeteners,06725016
+256,PSTA.OQ^L09,31-Dec-2005,US,Food Processing (NEC),06724727
+257,VFPI.PK^E09,31-Dec-2005,US,Food Retail & Distribution (NEC),06724178
+258,KANP.PK,31-Dec-2005,US,Land Division & Subdivision,06722945
+259,NTOL.OQ^A08,31-Dec-2005,US,Special Foods & Wellbeing Products,06722029
+260,SNAK.OQ^L17,31-Dec-2005,US,Food Processing (NEC),06720170
+261,THS.N,31-Dec-2005,US,Food Processing (NEC),06717285
+262,HORTQ.PK^D09,31-Dec-2005,US,Commercial Nurseries,06715560
+263,—,31-Dec-2005,US,Dairy Products,06715539
+264,AURFQ.OB^C04,25-Dec-2005,US,Food Processing (NEC),06710448
+265,NDAC.PK^K14,25-Dec-2005,US,Food Processing (NEC),06706912
+266,—,31-Dec-2005,US,Special Foods & Wellbeing Products,06705976
+267,—,31-Dec-2005,US,Food Processing (NEC),06705975
+268,—,31-Dec-2005,US,Food Processing (NEC),06699458
+269,NNUTU.PK^I22,31-Dec-2005,US,"Vegetable, Fruit & Nut Farming",06696389
+270,VGR.N,31-Dec-2005,US,Tobacco (NEC),06694032
+271,DAR.N,31-Dec-2005,US,Food Processing (NEC),06692792
+272,PEET.OQ^J12,01-Jan-2006,US,Coffee & Tea,06692258
+273,MTEX.OQ,31-Dec-2005,US,Special Foods & Wellbeing Products,06691675
+274,RELV.PK,31-Dec-2005,US,Special Foods & Wellbeing Products,06691118
+275,COKE.OQ,01-Jan-2006,US,Non-Alcoholic Beverages (NEC),06690608
+276,RDDC.PK^G19,31-Dec-2005,US,Bottled Water & Ice,06689794
+277,SAM.N,31-Dec-2005,US,Brewers (NEC),06689254
+278,MNST.OQ,31-Dec-2005,US,Energy Drinks,06689251
+279,MED.N,31-Dec-2005,US,Special Foods & Wellbeing Products,06688643
+280,—,14-Mar-2006,US,Commercial Nurseries,06686356
+281,TR.N,31-Dec-2005,US,Chocolate & Confectionery,06685936
+282,ANDE.OQ,31-Dec-2005,US,Fishing & Farming Wholesale,06685749
+283,CEDCQ.PK^F13,31-Dec-2005,US,Distillers & Wineries (NEC),06685534
+284,TSTY.OQ^E11,31-Dec-2005,US,Bread & Bakery Product Manufacturing,06685190
+285,IFF.N,31-Dec-2005,US,Food Ingredients,06683037
+286,OME.N^L17,31-Dec-2005,US,Commercial Fishing,06682835
+287,TAP.N,25-Dec-2005,US,Brewers (NEC),06680337
+288,MO.N,31-Dec-2005,US,Cigars & Cigarette Manufacturing,06680030
+289,DFODQ.PK^F21,31-Dec-2005,US,Food Processing (NEC),06679886
+290,MDLZ.OQ,31-Dec-2005,US,Food Processing (NEC),06679769
+291,BUD.N^K08,31-Dec-2005,US,Brewers (NEC),06675056
+292,PNRA.OQ^G17,27-Dec-2005,US,Bread & Bakery Product Manufacturing,06676497
+293,LNCE.OQ^C18,31-Dec-2005,US,"Cookie, Cracker & Pasta Manufacturing",06676353
+294,INGR.N,31-Dec-2005,US,Food Processing (NEC),06675950
+295,BUD.N^K08,31-Dec-2005,US,Brewers (NEC),06675056
+296,BEAM.N^E14,31-Dec-2005,US,Distilleries,06674696
+297,BGS.N,31-Dec-2005,US,Food Processing (NEC),06668643
+298,MKC.N,30-Nov-2005,US,Food Processing (NEC),06556790
+299,BRID.OQ,28-Oct-2005,US,Food Processing (NEC),06553950
+300,COWP.PK,31-Oct-2005,US,Fishing & Farming (NEC),06549422
+301,HRL.N,30-Oct-2005,US,Meat Processing,06529666
+302,RUM.A^D06,30-Sep-2005,US,Brewers (NEC),06525452
+303,SAFM.OQ^G22,31-Oct-2005,US,Meat Processing,051291914
+304,NTY.N^J10,30-Sep-2005,US,Special Foods & Wellbeing Products,051282475
+305,RAH.N^A13,30-Sep-2005,US,Food Processing (NEC),051264178
+306,—,01-Oct-2005,US,Poultry Farming,051263012
+307,IPSU.OQ^F12,30-Sep-2005,US,Sugar & Artificial Sweeteners,051262493
+308,TSN.N,01-Oct-2005,US,Meat Processing,051259245
+309,GMCR.OQ^C16,24-Sep-2005,US,Coffee & Tea,051252641
+310,CENT.OQ,24-Sep-2005,US,Pet Food Manufacturing,051252249
+311,JJSF.OQ,24-Sep-2005,US,Snack Food & Non-Chocolate Confectionary,051248838
+312,OFI.A^H13,02-Oct-2005,US,Food Processing (NEC),051247397
+313,NUTR.O^H17,30-Sep-2005,US,Special Foods & Wellbeing Products,051238268
+314,—,31-Aug-2005,US,Fishing & Farming (NEC),051231776
+315,—,27-Aug-2005,US,Meat Processing,051223394
+316,ALCO.OQ,17-Nov-2005,US,"Vegetable, Fruit & Nut Farming",051222988
+317,PPC.OQ,01-Oct-2005,US,Meat Processing,051215082
+318,CHSCP.OQ,31-Aug-2005,US,Fishing & Farming (NEC),051214036
+319,PENX.OQ^C15,31-Aug-2005,US,Flour Milling,051197360
+320,DKGW.PK^H09,31-Jul-2005,US,Food Processing (NEC),051164138
+321,DMND.OQ^C16,31-Jul-2005,US,Snack Food & Non-Chocolate Confectionary,051160345
+322,CPB.N,31-Jul-2005,US,Food Processing (NEC),051133170
+323,—,29-Jun-2005,US,Coffee & Tea,051111755
+324,—,30-Jun-2005,US,Animal Feed,051109263
+325,RUDN.PK^K08,30-Jun-2005,US,Non-Alcoholic Beverages (NEC),051109225
+326,JBSS.OQ,30-Jun-2005,US,Chocolate & Confectionery,051107537
+327,NXXIQ.PK^A12,30-Jun-2005,US,Special Foods & Wellbeing Products,051105870
+328,—,02-Jul-2005,US,"Dairy Products
++1",051100721
+329,PFACP.OQ^C10,25-Jun-2005,US,Fishing & Farming Wholesale,051100195
+330,CBI.A^K94,25-Jun-2005,US,Food Processing (NEC),051099388
+331,CUSI.PK,25-Jun-2005,US,Frozen Food Manufacturing,051098789
+332,—,30-Jun-2005,US,Fishing & Farming (NEC),051092242
+333,HAIN.OQ,30-Jun-2005,US,Food Ingredients,051082805
+334,NUCO.OQ^F08,30-Jun-2005,US,Carbonated Soft Drinks,051082690
+335,FARM.OQ,30-Jun-2005,US,Coffee & Tea,051082485
+336,LANC.OQ,30-Jun-2005,US,Food Ingredients,051081949
+337,MGPI.OQ,30-Jun-2005,US,Distillers & Wineries (NEC),051077685
+338,ADM.N,30-Jun-2005,US,Food Processing (NEC),051076177
+339,HSH.N^H14,02-Jul-2005,US,Food Processing (NEC),051067813
+340,GLDC.O^J16,03-Jun-2005,US,Food Processing (NEC),051057778
+341,SHF.N^L12,31-May-2005,US,Special Foods & Wellbeing Products,051056473
+342,—,29-May-2005,US,Meat Processing,051038167
+343,CAG.N,29-May-2005,US,Food Processing (NEC),051019549
+344,CALM.OQ,28-May-2005,US,Poultry Farming,051016074
+345,FIZZ.OQ,30-Apr-2005,US,Non-Alcoholic Beverages (NEC),05984891
+346,GIS.N,29-May-2005,US,Food Processing (NEC),05982013
+347,GXYF.OB^F09,31-Mar-2005,US,Food Processing (NEC),05955239
+348,LUCY.PK^I16,31-Mar-2005,US,Dairy Products,05955009
+349,BOBE.OQ^A18,29-Apr-2005,US,Food Processing (NEC),05952620
+350,TULY.OQ^I07,03-Apr-2005,US,Coffee & Tea,05952283
+351,SJM.N,30-Apr-2005,US,Food Processing (NEC),05950855
+352,SFD.N^I13,01-May-2005,US,Meat Processing,05948881
+353,DLM.N^C11,01-May-2005,US,Pet Food Manufacturing,05946843
+354,CAGAQ.PK^K12,02-Apr-2005,US,Meat Processing,05928413
+355,DLM.N^C11,01-May-2005,US,Pet Food Manufacturing,05946843
+356,CAGAQ.PK^K12,02-Apr-2005,US,Meat Processing,05928413
+357,BFb.N,30-Apr-2005,US,Distillers & Wineries (NEC),05928008
+358,HNZ.N^F13,27-Apr-2005,US,Food Processing (NEC),05901483
+359,PYYX.PK,31-Mar-2005,US,Tobacco (NEC),05895070
+360,SENEA.OQ,31-Mar-2005,US,Frozen Food Manufacturing,05894593
+361,—,31-Mar-2005,US,Distillers & Wineries (NEC),05894341
+362,UVV.N,31-Mar-2005,US,Tobacco (NEC),05891637
+363,—,05-Mar-2005,US,Ready-Made Meals,05877289
+364,UAPH.OQ^E08,27-Feb-2005,US,Agriculture Support Services,05864679
+365,—,28-Feb-2005,US,Chocolate & Confectionery,05841244
+366,STZ.N,28-Feb-2005,US,Brewers (NEC),05835996
+367,PORK.OQ^E07,26-Mar-2005,US,Meat Processing,05832036
+368,MENB.PK,31-Dec-2004,US,Brewers (NEC),05828637
+369,PZA.A^L06,31-Dec-2004,US,Food Processing (NEC),05759624
+370,RLBD.PK,31-Dec-2004,US,Food Processing (NEC),05754383
+371,SDSYA.PK,31-Dec-2004,US,Food Processing (NEC),05752975
+372,—,01-Jan-2005,US,Pet Food Manufacturing,05726665
+373,SNAK.OQ^L17,25-Dec-2004,US,Food Processing (NEC),05696116
+374,—,31-Dec-2004,US,Special Foods & Wellbeing Products,05691545
+375,PEET.OQ^J12,02-Jan-2005,US,Coffee & Tea,05690877
+376,DAR.N,01-Jan-2005,US,Food Processing (NEC),05689077
+377,FLO.N,01-Jan-2005,US,Bread & Bakery Product Manufacturing,05688999
+378,PFGC.OQ^F08,01-Jan-2005,US,Food Processing (NEC),05687921
+379,—,31-Dec-2004,US,Dairy Products,05687672
+380,—,02-Jan-2005,US,"Personal Services (NEC)
++1",05687332
+381,PNRA.OQ^G17,25-Dec-2004,US,Bread & Bakery Product Manufacturing,05686997
+382,—,01-Jan-2005,CA,Bottled Water & Ice,05685857
+383,BG.N,31-Dec-2004,BM,Food Processing (NEC),05685323
+384,MNST.OQ,31-Dec-2004,US,Energy Drinks,05685113
+385,—,31-Dec-2004,US,Commercial Nurseries,05685032
+386,NATR.OQ,31-Dec-2004,US,Special Foods & Wellbeing Products,05684897
+387,RELV.PK,31-Dec-2004,US,Special Foods & Wellbeing Products,05684606
+388,SOY.TO,31-Dec-2004,CA,Vegan & Vegetarian Food Manufacturing,05684308
+389,DFODQ.PK^F21,31-Dec-2004,US,Food Processing (NEC),05684299
+390,TR.N,31-Dec-2004,US,Chocolate & Confectionery,05684156
+391,CQB.N^A15,31-Dec-2004,US,Fishing & Farming (NEC),05683028
+392,MO.N,31-Dec-2004,US,Cigars & Cigarette Manufacturing,05682286
+393,NTOL.OQ^A08,31-Dec-2004,US,Special Foods & Wellbeing Products,05681846
+394,USNA.N,01-Jan-2005,US,Special Foods & Wellbeing Products,05681166
+395,CEDCQ.PK^F13,31-Dec-2004,US,Distillers & Wineries (NEC),05679485
+396,IFF.N,31-Dec-2004,US,Food Ingredients,05679177
+397,HLF.N,31-Dec-2004,KY,Special Foods & Wellbeing Products,05678735
+398,ANDE.OQ,31-Dec-2004,US,Fishing & Farming Wholesale,05678463
+399,K.N,01-Jan-2005,US,Food Processing (NEC),05678297
+400,BEAM.N^E14,31-Dec-2004,US,Distilleries,05677134
+401,SAM.N,25-Dec-2004,US,Brewers (NEC),05676442
+402,TAP.N,26-Dec-2004,US,Brewers (NEC),05676376
+403,MDLZ.OQ,31-Dec-2004,US,Food Processing (NEC),05675779
+404,PAS.N^C10,01-Jan-2005,US,Non-Alcoholic Beverages (NEC),05675594
+405,INGR.N,31-Dec-2004,US,Food Processing (NEC),05675286
+406,BUD.N^K08,31-Dec-2004,US,Brewers (NEC),05670905
+407,RAI.N^G17,31-Dec-2004,US,Tobacco (NEC),05669305
+408,OME.N^L17,31-Dec-2004,US,Commercial Fishing,05667694
+409,—,31-Dec-2004,US,Non-Alcoholic Beverages (NEC),05666290
+410,DRYR.OQ^A06,25-Dec-2004,US,Frozen Food Manufacturing,05664886
+411,HSY.N,31-Dec-2004,US,Food Processing (NEC),05663785
+412,KO.N,31-Dec-2004,US,Non-Alcoholic Beverages (NEC),05660550
+413,UST.N^A09,31-Dec-2004,US,Tobacco (NEC),05660038
+414,LNCE.OQ^C18,25-Dec-2004,US,"Cookie, Cracker & Pasta Manufacturing",05658271
+415,BGS.N,01-Jan-2005,US,Food Processing (NEC),05654427
+416,—,25-Dec-2004,US,Carbonated Soft Drinks,05644567
+417,PBG.N^C10,25-Dec-2004,US,Non-Alcoholic Beverages (NEC),05644537
+418,PEP.OQ,25-Dec-2004,US,Carbonated Soft Drinks,05643151
+419,UNMG.PK^D19,31-Dec-2003,US,"Vegetable, Fruit & Nut Farming",05633761
+420,GBURQ.PK^D06,30-Sep-2004,US,Food Processing (NEC),05628573
+421,WWY.N^J08,31-Dec-2004,US,Snack Food & Non-Chocolate Confectionary,05600118
+422,CRVP.A^C18,31-Oct-2004,US,Bottled Water & Ice,05560874
+423,COWP.PK,31-Oct-2004,US,Fishing & Farming (NEC),05557388
+424,BRID.OQ,29-Oct-2004,US,Food Processing (NEC),05554672
+425,MKC.N,30-Nov-2004,US,Food Processing (NEC),05554005
+426,CVGW.OQ,31-Oct-2004,US,Fruit & Vegetable Processing,05531287
+427,HRL.N,30-Oct-2004,US,Meat Processing,05527536
+428,RCFO.PK^L08,30-Sep-2004,US,Food Processing (NEC),05503421
+429,OFI.A^H13,26-Sep-2004,US,Food Processing (NEC),041224909
+430,SAFM.OQ^G22,31-Oct-2004,US,Meat Processing,041224204
+431,—,30-Sep-2004,US,Fishing & Farming (NEC),041214087
+432,AIPC.P^H10,01-Oct-2004,US,"Cookie, Cracker & Pasta Manufacturing",041205210
+433,TSN.N,15-Dec-2004,US,Meat Processing,041204005
+434,NTY.N^J10,30-Sep-2004,US,Special Foods & Wellbeing Products,041202351
+435,RAH.N^A13,30-Sep-2004,US,Food Processing (NEC),041202316
+436,CENT.OQ,25-Sep-2004,US,Pet Food Manufacturing,041193496
+437,GMCR.OQ^C16,25-Sep-2004,US,Coffee & Tea,041192115
+438,IPSU.OQ^F12,30-Sep-2004,US,Sugar & Artificial Sweeteners,041191902
+439,JJSF.OQ,25-Sep-2004,US,Snack Food & Non-Chocolate Confectionary,041190023
+440,NUTR.O^H17,30-Sep-2004,US,Special Foods & Wellbeing Products,041182823
+441,NRCNA.OB^K05,31-Aug-2004,US,Fishing & Farming (NEC),041172607
+442,—,31-Aug-2004,US,Food Processing (NEC),041172449
+443,—,31-Aug-2004,US,Fishing & Farming (NEC),041168985
+444,PPC.OQ,02-Oct-2004,US,Meat Processing,041167592
+445,ASCS.PK,31-Aug-2004,US,Food Processing (NEC),041165438
+446,—,28-Aug-2004,US,Meat Processing,041164541
+447,CHSCP.OQ,31-Aug-2004,US,Fishing & Farming (NEC),041155410
+448,ALCO.OQ,31-Aug-2004,US,"Vegetable, Fruit & Nut Farming",0450081127
+449,PENX.OQ^C15,31-Aug-2004,US,Flour Milling,041142786
+450,STSU.PK^H10,31-Jul-2004,US,Sugar & Artificial Sweeteners,041098551
+451,CPB.N,01-Aug-2004,US,Food Processing (NEC),041073687
+452,—,03-Jul-2004,US,"Dairy Products
++1",041058280
+453,—,30-Jun-2004,US,Coffee & Tea,041050814
+454,RUDN.PK^K08,30-Jun-2004,US,Non-Alcoholic Beverages (NEC),041050797
+455,CUSI.PK,26-Jun-2004,US,Frozen Food Manufacturing,041045519
+456,GKIS.OQ^A07,26-Jun-2004,US,Food Processing (NEC),041044373
+457,NXXIQ.PK^A12,30-Jun-2004,US,Special Foods & Wellbeing Products,041043956
+458,PFACP.OQ^C10,26-Jun-2004,US,Fishing & Farming Wholesale,041042685
+459,CBI.A^K94,26-Jun-2004,US,Food Processing (NEC),041038422
+460,HAIN.OQ,30-Jun-2004,US,Food Ingredients,041028043
+461,FARM.OQ,30-Jun-2004,US,Coffee & Tea,041027825
+462,NUCO.OQ^F08,30-Jun-2004,US,Carbonated Soft Drinks,041027682
+463,LANC.OQ,30-Jun-2004,US,Food Ingredients,041025998
+464,MOND.OQ^L04,30-Jun-2004,US,Distillers & Wineries (NEC),041024560
+465,MGPI.OQ,30-Jun-2004,US,Distillers & Wineries (NEC),041023288
+466,ADM.N,30-Jun-2004,US,Food Processing (NEC),041019724
+467,HSH.N^H14,03-Jul-2004,US,Food Processing (NEC),041015339
+468,SHF.N^L12,31-May-2004,US,Special Foods & Wellbeing Products,041005385
+469,—,30-May-2004,US,Meat Processing,04999832
+470,GLDC.O^J16,31-May-2004,US,Food Processing (NEC),04999438
+471,CALM.OQ,29-May-2004,US,Poultry Farming,04983396
+472,CAG.N,30-May-2004,US,Food Processing (NEC),04953909
+473,FIZZ.OQ,01-May-2004,US,Non-Alcoholic Beverages (NEC),04943161
+474,GIS.N,30-May-2004,US,Food Processing (NEC),04939745
+475,BG.N,31-Dec-2003,BM,Food Processing (NEC),04933946
+476,SFD.N^I13,02-May-2004,US,Meat Processing,04918101
+477,BOBE.OQ^A18,30-Apr-2004,US,Food Processing (NEC),04913652
+478,SJM.N,30-Apr-2004,US,Food Processing (NEC),04912194
+479,DLM.N^C11,02-May-2004,US,Pet Food Manufacturing,04909004
+480,—,31-Mar-2004,US,"Drug Retailers (NEC)
++1",04906705
+481,BFb.N,30-Apr-2004,US,Distillers & Wineries (NEC),04898847
+482,LUCY.PK^I16,31-Mar-2004,US,Dairy Products,04896132
+483,GXYF.OB^F09,31-Mar-2004,US,Food Processing (NEC),04889463
+484,TULY.OQ^I07,28-Mar-2004,US,Coffee & Tea,04885878
+485,—,31-Mar-2004,US,Distillers & Wineries (NEC),04883919
+486,STW.N^E05,31-Mar-2004,US,Fishing & Farming (NEC),04862097
+487,SENEA.OQ,31-Mar-2004,US,Frozen Food Manufacturing,04861826
+488,UVV.N,31-Mar-2004,US,Tobacco (NEC),04859544
+489,PYYX.PK,31-Mar-2004,US,Tobacco (NEC),04858391
+490,PORK.OQ^E07,27-Mar-2004,US,Meat Processing,04839619
+491,—,29-Feb-2004,US,Chocolate & Confectionery,04830359
+492,—,06-Mar-2004,US,Ready-Made Meals,04813565
+493,STZ.N,29-Feb-2004,US,Brewers (NEC),04809169
+494,IMC.N^F04,28-Feb-2004,US,Food Processing (NEC),04762860
+495,NTOL.OQ^A08,31-Dec-2003,US,Special Foods & Wellbeing Products,04733583
+496,—,03-Jan-2004,US,Snack Food & Non-Chocolate Confectionary,04728655
+497,NDAC.PK^K14,25-Dec-2003,US,Food Processing (NEC),04726658
+498,BGS.N,03-Jan-2004,US,Food Processing (NEC),04714936
+499,—,31-Dec-2003,US,Special Foods & Wellbeing Products,04707401
+500,—,31-Dec-2003,US,Food Processing (NEC),04702638
+501,MNST.OQ,31-Dec-2003,US,Energy Drinks,04702113
+502,—,31-Dec-2003,US,Food Processing (NEC),04701820
+503,—,31-Dec-2003,US,Dairy Products,04701416
+504,CHLN.OQ^B05,31-Dec-2003,US,Distillers & Wineries (NEC),04701322
+505,HORTQ.PK^D09,31-Dec-2003,US,Commercial Nurseries,04701182
+506,KANP.PK,31-Dec-2003,US,Land Division & Subdivision,04700591
+507,NATLP.PK^H04,31-Dec-2003,US,Tobacco (NEC),04700558
+508,ELAMF.PK,31-Dec-2003,US,Food Processing (NEC),04700132
+509,—,31-Dec-2003,US,Commercial Fishing,04699871
+510,CHFR.PK^D19,31-Dec-2003,US,"Vegetable, Fruit & Nut Farming",04699734
+511,PZA.A^L06,31-Dec-2003,US,Food Processing (NEC),04699684
+512,MRGO.PK,31-Dec-2003,PR,Fishing & Farming (NEC),04699512
+513,SDSYA.PK,31-Dec-2003,US,Food Processing (NEC),04698790
+514,—,31-Dec-2003,US,Commercial Nurseries,04698696
+515,VFPI.PK^E09,31-Dec-2003,US,Food Retail & Distribution (NEC),04698207
+516,BREW.OQ^J20,31-Dec-2003,US,Craft & Micro Brewers,04697114
+517,—,31-Dec-2003,US,Special Foods & Wellbeing Products,04696788
+518,DAR.N,03-Jan-2004,US,Food Processing (NEC),04696492
+519,SPOP.OB^L05,31-Dec-2003,US,Food Processing (NEC),04694829
+520,RELV.PK,31-Dec-2003,US,Special Foods & Wellbeing Products,04693108
+521,SYLN.OQ^F04,31-Dec-2003,US,Food Processing (NEC),04692673
+522,HERB.PK,31-Dec-2003,US,Fishing & Farming (NEC),04691960
+523,SDI.A^G20,31-Dec-2003,US,Cigars & Cigarette Manufacturing,04686218
+524,SNAK.OQ^L17,27-Dec-2003,US,Food Processing (NEC),04684818
+525,—,28-Dec-2003,US,Personal Services (NEC),04683910
+526,SNAK.OQ^L17,27-Dec-2003,US,Food Processing (NEC),04684818
+527,—,28-Dec-2003,US,Personal Services (NEC),04683910
+528,RDDC.PK^G19,31-Dec-2003,US,Bottled Water & Ice,04682483
+529,UST.N^A09,31-Dec-2003,US,Tobacco (NEC),04678927
+530,FLO.N,03-Jan-2004,US,Bread & Bakery Product Manufacturing,04677916
+531,—,03-Jan-2004,CA,Bottled Water & Ice,04677429
+532,PFGC.OQ^F08,03-Jan-2004,US,Food Processing (NEC),04676770
+533,DOLE.N^K13,03-Jan-2004,US,Fishing & Farming (NEC),04676316
+534,NNUTU.PK^I22,31-Dec-2003,US,"Vegetable, Fruit & Nut Farming",04675697
+535,SOY.TO,31-Dec-2003,CA,Vegan & Vegetarian Food Manufacturing,04670549
+536,PAS.N^C10,03-Jan-2004,US,Non-Alcoholic Beverages (NEC),04670352
+537,VGR.N,31-Dec-2003,US,Tobacco (NEC),04670406
+538,MTEX.OQ,31-Dec-2003,US,Special Foods & Wellbeing Products,04669847
+539,TR.N,31-Dec-2003,US,Chocolate & Confectionery,04669373
+540,NATR.OQ,31-Dec-2003,US,Special Foods & Wellbeing Products,04669118
+541,CEDCQ.PK^F13,31-Dec-2003,US,Distillers & Wineries (NEC),04668815
+542,DFODQ.PK^F21,31-Dec-2003,US,Food Processing (NEC),04667487
+543,TAP.N,28-Dec-2003,US,Brewers (NEC),04667109
+544,—,01-Mar-2003,US,Ready-Made Meals,04657422
+545,PSTA.OQ^L09,28-Dec-2003,US,Food Processing (NEC),04653832
+546,—,31-Dec-2003,US,Tobacco (NEC),04650648
+547,PEP.OQ,27-Dec-2003,US,Carbonated Soft Drinks,04647469
+548,SEB.A,31-Dec-2003,US,Food Processing (NEC),04635680
+549,KO.N,31-Dec-2003,US,Non-Alcoholic Beverages (NEC),04632708
+550,OME.N^L17,31-Dec-2003,US,Commercial Fishing,04632511
+551,LNCE.OQ^C18,27-Dec-2003,US,"Cookie, Cracker & Pasta Manufacturing",04619808
+552,WWY.N^J08,31-Dec-2003,US,Snack Food & Non-Chocolate Confectionary,04578076
+553,YOCM.PK^L10,31-Oct-2003,US,Frozen Food Manufacturing,04554044
+554,MKC.N,30-Nov-2003,US,Food Processing (NEC),04552790
+555,CRVP.A^C18,31-Oct-2003,US,Bottled Water & Ice,04551133
+556,COWP.PK,31-Oct-2003,US,Fishing & Farming (NEC),04550678
+557,BRID.OQ,31-Oct-2003,US,Food Processing (NEC),04544460
+558,CVGW.OQ,31-Oct-2003,US,Fruit & Vegetable Processing,04541382
+559,HRL.N,25-Oct-2003,US,Meat Processing,04539195
+560,RCFO.PK^L08,30-Sep-2003,US,Food Processing (NEC),04522963
+561,BTCA.PK^I22,30-Sep-2003,US,Special Foods & Wellbeing Products,04522392
+562,SAFM.OQ^G22,31-Oct-2003,US,Meat Processing,031078119
+563,AIPC.P^H10,03-Oct-2003,US,"Cookie, Cracker & Pasta Manufacturing",031077330
+564,OFI.A^H13,28-Sep-2003,US,Food Processing (NEC),031074617
+565,GMCR.OQ^C16,27-Sep-2003,US,Coffee & Tea,031066214
+566,RUM.A^D06,30-Sep-2003,US,Brewers (NEC),031062752
+567,JJSF.OQ,27-Sep-2003,US,Snack Food & Non-Chocolate Confectionary,031061212
+568,RAH.N^A13,30-Sep-2003,US,Food Processing (NEC),031060442
+569,TSN.N,27-Sep-2003,US,Meat Processing,031058036
+570,NTY.N^J10,30-Sep-2003,US,Special Foods & Wellbeing Products,031057233
+571,IPSU.OQ^F12,30-Sep-2003,US,Sugar & Artificial Sweeteners,031055956
+572,CENT.OQ,27-Sep-2003,US,Pet Food Manufacturing,031047414
+573,NRCNA.OB^K05,31-Aug-2003,US,Fishing & Farming (NEC),031028633
+574,—,31-Aug-2003,US,Fishing & Farming (NEC),031024972
+575,NUTR.O^H17,30-Sep-2003,US,Special Foods & Wellbeing Products,031023171
+576,—,02-Jul-2003,US,Coffee & Tea,03918428
+577,FARM.OQ,30-Jun-2003,US,Coffee & Tea,03915516
+578,NXXIQ.PK^A12,30-Jun-2003,US,Special Foods & Wellbeing Products,03915080
+579,PFACP.OQ^C10,28-Jun-2003,US,Fishing & Farming Wholesale,03912940
+580,NUCO.OQ^F08,30-Jun-2003,US,Carbonated Soft Drinks,03912917
+581,CBI.A^K94,28-Jun-2003,US,Food Processing (NEC),03912130
+582,CUSI.PK,28-Jun-2003,US,Frozen Food Manufacturing,03912043
+583,CSGN.PK^H09,30-Jun-2003,US,Food Processing (NEC),03910880
+584,LANC.OQ,30-Jun-2003,US,Food Ingredients,03910385
+585,GKIS.OQ^A07,28-Jun-2003,US,Food Processing (NEC),03905624
+586,—,28-Jun-2003,US,"Dairy Products
++1",03904358
+587,HSH.N^H14,28-Jun-2003,US,Food Processing (NEC),03903545
+588,UVV.N,30-Jun-2003,US,Tobacco (NEC),03897031
+589,MGPI.OQ,30-Jun-2003,US,Distillers & Wineries (NEC),03897011
+590,JBSS.OQ,26-Jun-2003,US,Chocolate & Confectionery,03895066
+591,ADM.N,30-Jun-2003,US,Food Processing (NEC),03879839
+592,HNFSA.PK,01-Jun-2003,US,Frozen Food Manufacturing,03874012
+593,GLDC.O^J16,28-Aug-2003,US,Food Processing (NEC),03872466
+594,SHF.N^L12,31-May-2003,US,Special Foods & Wellbeing Products,03871875
+595,PYYX.PK,30-Jun-2003,US,Tobacco (NEC),03870190
+596,IBCIQ.PK^B09,31-May-2003,US,Bread & Bakery Product Manufacturing,03861418
+597,—,25-May-2003,US,Meat Processing,03861241
+598,UNMG.PK^D19,31-Dec-2002,US,"Vegetable, Fruit & Nut Farming",03837146
+599,CALM.OQ,31-May-2003,US,Poultry Farming,03836412
+600,CAG.N,25-May-2003,US,Food Processing (NEC),03831445
+601,GIS.N,25-May-2003,US,Food Processing (NEC),03822922
+602,FIZZ.OQ,03-May-2003,US,Non-Alcoholic Beverages (NEC),03815473
+603,LUCY.PK^I16,31-Mar-2003,US,Dairy Products,03814367
+604,HNZ.N^F13,30-Apr-2003,US,Food Processing (NEC),03801639
+605,BFb.N,30-Apr-2003,US,Distillers & Wineries (NEC),03801543
+606,SJM.N,30-Apr-2003,US,Food Processing (NEC),03800919
+607,SFD.N^I13,27-Apr-2003,US,Meat Processing,03797873
+608,DLM.N^C11,27-Apr-2003,US,Pet Food Manufacturing,03796913
+609,BOBE.OQ^A18,25-Apr-2003,US,Food Processing (NEC),03796533
+610,TULY.OQ^I07,30-Mar-2003,US,Coffee & Tea,03764636
+611,SENEA.OQ,31-Mar-2003,US,Frozen Food Manufacturing,03759351
+612,CAGAQ.PK^K12,29-Mar-2003,US,Meat Processing,03758720
+613,STW.N^E05,31-Mar-2003,US,Fishing & Farming (NEC),03758161
+614,—,31-Mar-2003,US,Food Processing (NEC),03755301
+615,PORK.OQ^E07,29-Mar-2003,US,Meat Processing,03731051
+616,—,28-Feb-2003,US,Chocolate & Confectionery,03718803
+617,CHCL.PK^K06,31-Dec-2002,US,Fishing & Farming (NEC),03708865
+618,STZ.N,28-Feb-2003,US,Brewers (NEC),03696371
+619,CBRAF.PK^D16,31-Dec-2002,US,Food Ingredients,03694714
+620,IMC.N^F04,01-Mar-2003,US,Food Processing (NEC),03692312
+621,BVAH.PK^C04,31-Dec-2002,US,"Vegetable, Fruit & Nut Farming",03673539
+622,NTOL.OQ^A08,31-Dec-2002,US,Special Foods & Wellbeing Products,03647869
+623,HORTQ.PK^D09,31-Dec-2002,US,Commercial Nurseries,03646754
+624,—,31-Dec-2002,US,Commercial Fishing,03632196
+625,VGR.N,31-Dec-2002,US,Tobacco (NEC),03632083
+626,CHLN.OQ^B05,31-Dec-2002,US,Distillers & Wineries (NEC),03631826
+627,VFPI.PK^E09,31-Dec-2002,US,Food Retail & Distribution (NEC),03630806
+628,SURE.PK^J06,31-Dec-2002,US,Food Processing (NEC),03629862
+629,MRGO.PK,31-Dec-2002,PR,Fishing & Farming (NEC),03629624
+630,MTEX.OQ,31-Dec-2002,US,Special Foods & Wellbeing Products,03628679
+631,RELV.PK,31-Dec-2002,US,Special Foods & Wellbeing Products,03628365
+632,CQB.N^A15,31-Dec-2002,US,Fishing & Farming (NEC),03627301
+633,SOY.TO,31-Dec-2002,CA,Vegan & Vegetarian Food Manufacturing,03627079
+634,—,31-Dec-2002,US,Special Foods & Wellbeing Products,03627071
+635,APBL.PK^L16,31-Dec-2002,US,Food Processing (NEC),03626901
+636,PEET.OQ^J12,29-Dec-2002,US,Coffee & Tea,03626888
+637,—,31-Dec-2002,US,Commercial Nurseries,03626966
+638,PAS.N^C10,28-Dec-2002,US,Non-Alcoholic Beverages (NEC),03626520
+639,TSTY.OQ^E11,28-Dec-2002,US,Bread & Bakery Product Manufacturing,03625750
+640,—,30-Dec-2002,US,Frozen Food Manufacturing,03625702
+641,—,28-Dec-2002,US,Food Processing (NEC),03625671
+642,SDI.A^G20,31-Dec-2002,US,Cigars & Cigarette Manufacturing,03625473
+643,PMID.PK^D09,31-Dec-2002,US,Brewers (NEC),03625426
+644,—,28-Dec-2002,US,Carbonated Soft Drinks,03625176
+645,COKE.OQ,29-Dec-2002,US,Non-Alcoholic Beverages (NEC),03625100
+646,FLO.N,28-Dec-2002,US,Bread & Bakery Product Manufacturing,03624411
+647,SYLN.OQ^F04,31-Dec-2002,US,Food Processing (NEC),03624332
+648,SNAK.OQ^L17,28-Dec-2002,US,Food Processing (NEC),03624272
+649,BREW.OQ^J20,31-Dec-2002,US,Craft & Micro Brewers,03622341
+650,—,31-Dec-2002,US,Non-Alcoholic Beverages (NEC),03622238
+651,NATR.OQ,31-Dec-2002,US,Special Foods & Wellbeing Products,03622089
+652,MO.N,31-Dec-2002,US,Cigars & Cigarette Manufacturing,03621992
+653,SDSYA.PK,31-Dec-2002,US,Food Processing (NEC),03621877
+654,—,31-Dec-2002,US,Food Processing (NEC),03621849
+655,—,31-Dec-2002,US,Animal Feed,03621654
+656,—,28-Dec-2002,US,Snack Food & Non-Chocolate Confectionary,03621430
+657,USNA.N,28-Dec-2002,US,Special Foods & Wellbeing Products,03621060
+658,SAM.N,28-Dec-2002,US,Brewers (NEC),03620727
+659,TAP.N,29-Dec-2002,US,Brewers (NEC),03619254
+660,—,31-Dec-2002,US,Dairy Products,03619284
+661,DFODQ.PK^F21,31-Dec-2002,US,Food Processing (NEC),03619253
+662,—,31-Dec-2002,US,Special Foods & Wellbeing Products,03619173
+663,TR.N,31-Dec-2002,US,Chocolate & Confectionery,03618791
+664,AURFQ.OB^C04,31-Dec-2002,US,Food Processing (NEC),03618433
+665,DAR.N,28-Dec-2002,US,Food Processing (NEC),03618292
+666,KO.N,31-Dec-2002,US,Non-Alcoholic Beverages (NEC),03618266
+667,HSY.N,26-Mar-2003,US,Food Processing (NEC),03617703
+668,BUD.N^K08,31-Dec-2002,US,Brewers (NEC),03617659
+669,DOLE.N^K13,28-Dec-2002,US,Fishing & Farming (NEC),03616904
+670,NNUTU.PK^I22,31-Dec-2002,US,"Vegetable, Fruit & Nut Farming",03616774
+671,MDLZ.OQ,31-Dec-2002,US,Food Processing (NEC),03616390
+672,IFF.N,31-Dec-2002,US,Food Ingredients,03615456
+673,—,29-Dec-2002,US,Food Processing (NEC),03615341
+674,—,29-Dec-2002,US,Personal Services (NEC),03614972
+675,INGR.N,31-Dec-2002,US,Food Processing (NEC),03612143
+676,—,31-Dec-2002,US,Food Processing (NEC),03611245
+677,PNRA.OQ^G17,28-Dec-2002,US,Bread & Bakery Product Manufacturing,03611217
+678,ICY.P^I03,31-Dec-2002,US,Non-Alcoholic Beverages (NEC),03610610
+679,ANDE.OQ,31-Dec-2002,US,Fishing & Farming Wholesale,03609545
+680,PFGC.OQ^F08,28-Dec-2002,US,Food Processing (NEC),03606644
+681,—,28-Dec-2002,CA,Bottled Water & Ice,03606065
+682,SPOP.OB^L05,31-Dec-2002,US,Food Processing (NEC),03605624
+683,CEDCQ.PK^F13,31-Dec-2002,US,Distillers & Wineries (NEC),03605020

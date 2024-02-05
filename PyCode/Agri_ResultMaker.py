@@ -78,10 +78,18 @@ if __name__ == '__main__':
     
     file_list = glob("AnnualReport-10K/*.pdf")
     
-    file_to_use = []
+    file_to_use_no_duplicate = []
     
     for file in file_list:
         if file[-5] != ')':
+            file_to_use_no_duplicate.append(file)
+    
+    done_df = pd.read_csv('Data/ArgiDoneBigquery.csv')
+    done_list = done_df['nake_name'].to_list()
+    
+    file_to_use = []
+    for file in file_to_use_no_duplicate:
+        if file not in done_list:
             file_to_use.append(file)
     
     file_to_use_sorted = sorted(file_to_use)[Begin_Point: End_Point]
