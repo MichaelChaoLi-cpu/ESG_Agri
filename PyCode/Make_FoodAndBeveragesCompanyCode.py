@@ -54,6 +54,8 @@ report_list = pd.concat([report_list_1, report_list_all,
 code_df = report_list[['Code']]
 code_df['Code'] = code_df['Code'].str.split('^').str[0]
 code_df = code_df.drop_duplicates()
-code_df.to_excel("Data/FoodAndBeveragesCompanyCode.xlsx")
+#code_df.to_excel("Data/FoodAndBeveragesCompanyCode.xlsx")
+
+report_list.to_csv("Data/FoodAndBeveragesCompanyNameCodeDID.xlsx")
 
 

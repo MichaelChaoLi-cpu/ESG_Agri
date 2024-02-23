@@ -161,5 +161,7 @@ cython_debug/
 
 Key/*
 *.pdf
+Data/*.csv
+Data/*.xlsx
 
 .Rproj.user
